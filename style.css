@@ -145,6 +145,7 @@ nav *:hover {
 
 img {
     max-width: 700px;
+    object-fit: contain;
 }
 
 svg {
